@@ -1,0 +1,48 @@
+h1 {
+color:black;
+font-size: small;
+text-align: center;
+font-size: 30px;
+}
+p{
+color:black(239, 193, 8);
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 21px;
+text-align: justify;
+margin: 50px;
+}
+body{
+background-color:#abdbe3
+
+}
+header{
+background-color: white;
+}
+img{
+width: 600px;
+height: 300px;
+margin-left: 370px;
+}
+li {
+color:black(239, 193, 8);
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 25px;
+text-align: center;
+margin: 40px;
+padding-left: 170px;
+display: flex;
+display: inline-block;
+margin:20px;
+justify-content: space-around;
+justify-content: space-between;
+align-items: center;
+}
+h2 { text-align: center;
+font-size: 20px;
+font-style: italic;
+}
+.video{
+text-decoration: none; /* Remove o sublinhado */
+color: rgb(0, 0, 0); /* Define a cor padrão do link */
+/* Define as cores e estilos adicionais para a:hover, a:active e a:visited, se desejar */
+}
